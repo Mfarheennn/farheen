@@ -14,7 +14,7 @@ To run this project locally within your Windows/WSL environment:
 
 1. Clone the repository down into your WSL workspace directory:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Mfarheennn/farheen.git
    ```
 2. Navigate directly into the project directory root:
    ```bash
